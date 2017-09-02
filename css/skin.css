@@ -413,7 +413,7 @@ p{
 [7. Rollovers]
 */
 .overlay-info{
-	background: rgba(253, 234, 109, 0.95);
+	background: rgba(255, 204, 0, 0.95);
 }
 .overlay-info > span > span{
 	text-align: center;
