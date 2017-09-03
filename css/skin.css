@@ -346,7 +346,7 @@ p{
 */
 .full-width-slider,
 .parallax.fixed-height{
-	height: 100vh;
+	height: 200vh;
 }
 .mobile .full-width-slider,
 .mobile .parallax.fixed-height{
