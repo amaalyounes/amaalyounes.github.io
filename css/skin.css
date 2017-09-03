@@ -346,11 +346,11 @@ p{
 */
 .full-width-slider,
 .parallax.fixed-height{
-	height: 200vh;
+	height: 100vh;
 }
 .mobile .full-width-slider,
 .mobile .parallax.fixed-height{
-	height: 100rem;
+	height: 120rem;
 }
 .tm-slider-container,
 .parallax{
